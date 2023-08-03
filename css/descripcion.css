@@ -1,0 +1,48 @@
+/* Estilos para la caja de descripción */
+.descripcion_del_producto {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 2px solid #ccc; /* Borde más pronunciado */
+    border-radius: 10px; /* Bordes redondeados */
+    margin-top: 20px;
+    width: 60%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f7f7f7; /* Fondo suave */
+  }
+  
+  .imagen {
+    max-width: 250px;
+    margin-right: 20px;
+  }
+  
+  .contenido {
+    flex: 1;
+  }
+  
+  .titulo {
+    font-size: 28px; /* Tamaño de fuente más grande */
+    margin: 0 0 10px;
+    color: #333; /* Color de texto más oscuro */
+  }
+  
+  .descripcion, .pasos, .herramientas {
+    margin: 10px 0; /* Espaciado más amplio */
+    font-size: 18px; /* Tamaño de fuente más grande */
+    color: #666; /* Color de texto más claro */
+  }
+  
+  .herramientas {
+    font-weight: bold;
+  }
+  
+  /* Estilo para los pasos */
+  .pasos {
+    list-style: decimal inside;
+    padding-left: 20px;
+  }
+  

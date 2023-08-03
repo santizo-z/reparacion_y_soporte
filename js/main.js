@@ -1,4 +1,5 @@
 import {data} from "./data.js"
+import { llenarCajaDescripcion } from "./descripcion_producto.js";
 
 let main_DOM = document.querySelector("#main")
 
@@ -18,4 +19,12 @@ item.innerHTML = `
 `
 
 main_DOM.appendChild(item);
+// Agregar evento clic a cada_item
+item.addEventListener("click", () => {
+    llenarCajaDescripcion(cada_item);
+  });
 });
+
+
+
+

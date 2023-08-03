@@ -1,7 +1,7 @@
 export let data = [
     {
-        titulo: "cambio de pasta termica",
-        img : "https://e7.pngegg.com/pngimages/201/785/png-clipart-computer-icons-symbol-others-miscellaneous-repair.png",
+        titulo: "Cambio de pasta termica",
+        img : "https://www.opirata.com/blog/wp-content/uploads/2019/04/pasta-termica.jpg",
         descripcion : "Como cambiar la pasta termica del procesador",
         herramientas: [
             "destornillador de estrella",
@@ -20,7 +20,7 @@ export let data = [
 
       {
         titulo: "Limpieza interna de la computadora",
-        img: "url_imagen",
+        img: "https://www.profesionalreview.com/wp-content/uploads/2016/09/Limpiar-PC-Limpieza-1280x720.jpg",
         descripcion: "Limpieza profunda del hardware interno para eliminar polvo y mejorar el rendimiento.",
         herramientas: [
           "Soplador de aire comprimido",
@@ -38,7 +38,7 @@ export let data = [
       },
       {
         titulo: "Diagnóstico de problemas",
-        img: "url_imagen",
+        img: "https://www.loyvan.com/wp-content/uploads/2014/05/Software-diagnostico.jpg",
         descripcion: "Identificación y solución de problemas de hardware y software en la computadora.",
         herramientas: [
           "Herramientas de diagnóstico de software",
@@ -53,7 +53,7 @@ export let data = [
       },
       {
         titulo: "Instalación de software",
-        img: "url_imagen",
+        img: "https://centrodereparacioncompusystem.com/wp-content/uploads/2020/07/instalacion-de-software-en-merida.jpg",
         descripcion: "Instalación de sistemas operativos, programas y controladores necesarios para el funcionamiento óptimo de la computadora.",
         herramientas: [
           "Unidad USB con software",
@@ -69,7 +69,7 @@ export let data = [
       },
       {
         titulo: "Recuperación de datos",
-        img: "url_imagen",
+        img: "https://www.muycomputer.com/wp-content/uploads/2016/08/data-backup.png",
         descripcion: "Recuperación de datos perdidos o dañados de discos duros, unidades USB y otros dispositivos de almacenamiento.",
         herramientas: [
           "Herramientas de recuperación de datos"
@@ -84,7 +84,7 @@ export let data = [
       },
       {
         titulo: "Actualización de hardware",
-        img: "url_imagen",
+        img: "https://img.freepik.com/fotos-premium/mantenimiento-actualizacion-hardware-cpu-computadora-componente-placa-base_94046-1353.jpg",
         descripcion: "Mejora del rendimiento de la computadora mediante la actualización de componentes como RAM, tarjeta gráfica, etc.",
         herramientas: [
           "Destornilladores",
@@ -101,7 +101,7 @@ export let data = [
       },
       {
         titulo: "Respaldo de datos",
-        img: "url_imagen",
+        img: "https://www.espacios.net.mx/wp-content/uploads/2021/05/importancia-del-respaldo-de-informacion.jpg",
         descripcion: "Copia de seguridad de archivos importantes para evitar pérdida de datos en caso de fallos del sistema.",
         herramientas: [
           "Dispositivo de almacenamiento externo"
@@ -116,7 +116,7 @@ export let data = [
       },
       {
         titulo: "Eliminación de virus y malware",
-        img: "url_imagen",
+        img: "https://community-mpro.s3.amazonaws.com/upload/2019/10/31/8dd7d0dd21d3d438c3405e274d0662d1.png",
         descripcion: "Detección y eliminación de virus, malware y otras amenazas de seguridad en la computadora.",
         herramientas: [
           "Software antivirus",
@@ -132,7 +132,7 @@ export let data = [
       },
       {
         titulo: "Optimización de rendimiento",
-        img: "url_imagen",
+        img: "https://sisnetconsulting.com/wp-content/uploads/2022/01/optimizacion-recursos-web-wpo.jpg",
         descripcion: "Mejora del rendimiento general de la computadora mediante ajustes de configuración y optimización.",
         herramientas: [
           "Herramientas de optimización de software"
@@ -147,7 +147,7 @@ export let data = [
       },
       {
         titulo: "Configuración de redes",
-        img: "url_imagen",
+        img: "https://geeks.do/wp-content/uploads/2018/03/vpn.png",
         descripcion: "Configuración de redes cableadas e inalámbricas para una conexión estable y segura.",
         herramientas: [
           "Router",
@@ -164,7 +164,7 @@ export let data = [
       },
       {
         titulo: "Reemplazo de componentes dañados",
-        img: "url_imagen",
+        img: "https://mx.techspray.com/content/images/thumbs/0002148_using-freeze-spray-to-diagnose-faulty-electronics.png",
         descripcion: "Sustitución de piezas dañadas o defectuosas en la computadora para restaurar su funcionamiento.",
         herramientas: [
           "Piezas de repuesto",

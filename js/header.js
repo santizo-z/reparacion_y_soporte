@@ -3,10 +3,10 @@ let header_DOM = document.querySelector("#header")
 let header_componente = `
     <h2>🪛 Tecnico David</h2>
     <ul>
-        <li>titulo 1</li>
-        <li>titulo 2</li>
-        <li>titulo 3</li>
-        <li>titulo 4</li>
+        <li>PC</li>
+        <li>Laptop</li>
+        <li>Consola</li>
+        <li>Software</li>
     </ul>
 `
 
