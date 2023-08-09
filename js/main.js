@@ -8,6 +8,7 @@ data.forEach((cada_item) => {
 
 let item = document.createElement("div")
 item.className = "item";
+item.id = `${cada_item.id}`;
 
 item.innerHTML = `
    <div class="caja_img">
@@ -22,8 +23,12 @@ main_DOM.appendChild(item);
 // Agregar evento clic a cada_item
 item.addEventListener("click", () => {
     llenarCajaDescripcion(cada_item);
+    let main = document.querySelector("#main");
+  main.classList.add("ocultar");
+
   });
 });
+
 
 
 

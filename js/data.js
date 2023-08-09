@@ -1,6 +1,7 @@
 export let data = [
     {
-        titulo: "Cambio de pasta termica",
+      id: 1,  
+      titulo: "Cambio de pasta termica",
         img : "https://www.opirata.com/blog/wp-content/uploads/2019/04/pasta-termica.jpg",
         descripcion : "Como cambiar la pasta termica del procesador",
         herramientas: [
